@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Protected Site"
+AuthUserFile TreeOfLie/website/.htpasswd
+require valid-user
