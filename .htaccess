@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Protected Site"
-AuthUserFile /root/main/website/.htpasswd
+AuthUserFile /treeoflife/root/main/website/.htpasswd
 require valid-user
