@@ -1,53 +1,78 @@
-<!DOCTYPE html>
-<html style="font-size: 16px;" lang="en-IN"><head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-    <meta name="keywords" content="alex siasios, alexassiasios111222333444, jakalijanama14, tree of lie, treeofliechattingcommunity1234567890, tree of lie chat, tree of lie community, community, chatting, chat, meet new people, meet online friends, friends, online, free, free of cost">
-    <meta name="description" content="We invite you to our new online growing community where you can meet new people and have fun free of cost. So what are you waiting for? Join us now! :)">
-    <title>Tree Of Lie - New Social Growing Community</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-<link rel="stylesheet" href="Home.css" media="screen">
-    <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
-    <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
-    <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
-    
-    
-    <script type="application/ld+json">{
-		"@context": "http://schema.org",
-		"@type": "Organization",
-		"name": "Nahbro"
-}</script>
-    <meta name="theme-color" content="#3fb7fe">
-    <meta property="og:title" content="Tree Of Lie - New Social Growing Community">
-    <meta property="og:description" content="We invite you to our new online growing community where you can meet new people and have fun free of cost. So what are you waiting for? Join us now! :)">
-    <meta property="og:type" content="website">
-  </head>
-  <body class="u-body u-xl-mode" data-lang="en">
-    <section class="u-align-center u-black u-clearfix u-section-1" id="carousel_6c43">
-      <div class="u-clearfix u-sheet u-sheet-1">
-        <h2 class="u-text u-text-default u-text-palette-2-base u-text-1">Let's make a community</h2>
-        <p class="u-text u-text-2"> Our team is committed to making a positive impact for our clients, their users, and our community.</p>
-        <div class="u-form u-form-1">
-          <form action="https://forms.nicepagesrv.com/Form/Process" class="u-clearfix u-form-spacing-10 u-form-vertical u-inner-form" source="email" name="form" style="padding: 10px;">
-            <div class="u-form-group u-form-name u-label-none">
-              <label for="name-a386" class="u-form-control-hidden u-label"></label>
-              <input type="text" placeholder="Enter your Name" id="name-a386" name="name" class="u-border-5 u-border-palette-2-base u-input u-input-rectangle u-radius-50 u-white" required="">
-            </div>
-            <div class="u-form-email u-form-group u-label-none">
-              <label for="email-a386" class="u-label">Email</label>
-              <input type="email" placeholder="Enter a valid email address" id="email-a386" name="email" class="u-border-5 u-border-palette-2-base u-input u-input-rectangle u-radius-50 u-white" required="">
-            </div>
-            <div class="u-align-center u-form-group u-form-submit u-label-none">
-              <input type="submit" value="submit" class="u-form-control-hidden">
-              <a href="#" class="u-border-none u-btn u-btn-submit u-button-style u-palette-2-base u-btn-1">Submit</a>
-            </div>
-            <div class="u-form-send-message u-form-send-success"> Thank you! Your message has been sent. </div>
-            <div class="u-form-send-error u-form-send-message"> Unable to send your message. Please fix errors then try again. </div>
-            <input type="hidden" value="" name="recaptchaResponse">
-            <input type="hidden" name="formServices" value="4c573ec97956ade23e7434baa4a7213b">
-          </form>
-        </div>
-      </div>
-    </section>
-  
-</body></html>
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 305px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.25rem;
+  width: 645px;
+  margin: 22px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 197px;
+  width: 570px;
+  margin: 69px auto 60px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-form-1 {
+    margin-right: 189px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-2 {
+    margin-left: 38px;
+    margin-right: 38px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 315px;
+    margin-right: 79px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 38px;
+    margin-right: 38px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+    width: 540px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 540px;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
