@@ -6,5 +6,58 @@
   font-weight: 400;
   font-size: 1.5rem;
   width: 187px;
-  margin: 60px auto;
+  margin: 479px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  height: 338px;
+  width: 570px;
+  box-shadow: 34px 31px 31px 0px rgba(0,0,0,0.4);
+  margin: 39px auto 60px;
+}
+
+.u-section-1 .u-form-group-1 {
+  width: 100%;
+}
+
+.u-section-1 .u-input-1 {
+  height: 47px;
+  letter-spacing: 1px;
+}
+
+.u-section-1 .u-form-group-2 {
+  width: 100%;
+}
+
+.u-section-1 .u-input-2 {
+  letter-spacing: 1px;
+}
+
+.u-section-1 .u-form-group-3 {
+  width: 100%;
+}
+
+.u-section-1 .u-input-3 {
+  height: 47px;
+  letter-spacing: 1px;
+}
+
+.u-section-1 .u-form-group-4 {
+  width: 100%;
+}
+
+.u-section-1 .u-btn-1 {
+  padding: 10px 56px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
 }
